@@ -1,0 +1,26 @@
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+#logoempresa
+{
+	width:230px;
+	height:200px;
+	padding-right:20px;
+	padding-top:1px;
+	margin-top: 1px;
+	
+}
+w3-container
+{
+	 padding:100px;
+}
+#tituloempresa
+{
+    font-family:"Lucida Console";
+	word-spacing:9px;
+}
+w3-padding w3-hover-white
+{
+	
+}
